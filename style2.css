@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: century gothic;
+
+}
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../t3.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center; 
+	
+}
+.title{
+	position: absolute;
+	top: 20%;
+	left: 35%;
+	transform: translate(-50%,-50%);
+
+}
+.title h1{
+	color: #fff;
+	font-size: 20px;
+	font-family: papyrus;
+}
+.title1{
+	position: absolute;
+	top: 60%;
+	left: 12%;
+	transform: translate(-50%,-50%);
+
+}
+.title1 h2{
+	color: #fff;
+	font-size: 20px;
+	font-family: papyrus;
+}
